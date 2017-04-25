@@ -1,3 +1,2 @@
 # lab5
-Using selectors
-CSS
+Using selectors CSS
